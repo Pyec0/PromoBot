@@ -1,0 +1,22 @@
+[
+  {
+    "name": "KaBuM (Ofertas do dia)",
+    "rss": "https://www.promobit.com.br/ofertas/rss?loja=kabum"
+  },
+  {
+    "name": "Amazon Brasil (Tecnologia)",
+    "rss": "https://www.promobit.com.br/ofertas/rss?loja=amazon"
+  },
+  {
+    "name": "Magalu",
+    "rss": "https://www.promobit.com.br/ofertas/rss?loja=magazineluiza"
+  },
+  {
+    "name": "Mercado Livre",
+    "rss": "https://www.promobit.com.br/ofertas/rss?loja=mercadolivre"
+  },
+  {
+    "name": "AliExpress",
+    "rss": "https://www.promobit.com.br/ofertas/rss?loja=aliexpress"
+  }
+]
